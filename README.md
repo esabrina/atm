@@ -5,7 +5,7 @@
 The .NET solution to simulate a bank ATM withdrawal. 
 
 Requirements: 
- - Deliver the least number of banknotes; 
+ - Deliver the minimum amount of banknotes; 
  - You can only withdraw the requested amount with the available banknotes; 
  - Infinite customer balance; 
  - Finite amount of banknotes; 
@@ -13,9 +13,9 @@ Requirements:
  - You can make withdrawals until banknotes is over
  
  Result examples: 
- - Withdrawal Amount: R$30.00 - Expected Result: Entregar 1 nota de R$20,00 e 1 nota de R$10,00. 
- - Withdrawal amount: R$60.00 - Expected Result: Entregar 1 nota de R$50,00 e 1 nota de R$10,00. 
- - Withdrawal amount: R$80.00 - Expected Result: Entregar 1 nota de R$50,00, 1 nota de R$20,00 bill e 1 nota de R$10,00.
+ - Withdrawal Amount: R$30 - Expected Result: Entregar 1 nota de R$20 e 1 nota de R$10. 
+ - Withdrawal amount: R$60 - Expected Result: Entregar 1 nota de R$50 e 1 nota de R$10. 
+ - Withdrawal amount: R$80 - Expected Result: Entregar 1 nota de R$50, 1 nota de R$20 e 1 nota de R$10.
 
 
 
